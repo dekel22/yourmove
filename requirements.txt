@@ -29,7 +29,7 @@ chardet==3.0.4
 chumpy==0.70
 Click==7.0
 cloudpickle==1.3.0
-clyent==1.2.2
+clyent==1.2.1
 colorama==0.4.3
 colour==0.1.5
 comtypes==1.1.7
