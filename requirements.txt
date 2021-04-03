@@ -22,7 +22,6 @@ blis==0.4.1
 bokeh==1.4.0
 boto==2.49.0
 Bottleneck==1.3.2
-bqplot @ file:///home/conda/feedstock_root/build_artifacts/bqplot_1610101826060/work
 catalogue==1.0.0
 certifi==2019.11.28
 cffi==1.14.0
