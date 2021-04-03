@@ -77,7 +77,6 @@ intervaltree==3.0.2
 ipykernel==5.1.4
 ipython==7.12.0
 ipython-genutils==0.2.0
-ipywebrtc @ file:///D:/bld/ipywebrtc_1602777747631/work
 ipywidgets==7.5.1
 isort==4.3.21
 itsdangerous==1.1.0
