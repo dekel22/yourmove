@@ -12,7 +12,6 @@ autopep8==1.4.4
 Babel==2.8.0
 backcall==0.1.0
 backports.shutil-get-terminal-size==1.0.0
-backports.tempfile @ file:///home/linux1/recipes/ci/backports.tempfile_1610991236607/work
 backports.weakref==1.0.post1
 bcrypt==3.1.7
 beautifulsoup4==4.8.2
