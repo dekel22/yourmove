@@ -252,7 +252,6 @@ tornado==6.1
 tqdm==4.42.1
 traitlets==4.3.3
 treeinterpreter==0.2.2
-typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
 ujson==1.35
 unicodecsv==0.14.1
 urllib3==1.25.8
