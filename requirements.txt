@@ -120,7 +120,6 @@ mpmath==1.1.0
 msgpack==0.6.1
 multipledispatch==0.6.0
 murmurhash==1.0.2
-nb-conda==2.2.1
 nb-conda-kernels @ file:///C:/ci/nb_conda_kernels_1606832727237/work
 nbclient==0.5.3
 nbconvert==6.0.7
