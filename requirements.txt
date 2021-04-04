@@ -193,7 +193,6 @@ python-dateutil==2.8.1
 python-jsonrpc-server==0.3.4
 python-language-server==0.31.7
 python-slugify==4.0.1
-pythreejs @ file:///home/conda/feedstock_root/build_artifacts/pythreejs_1614691447028/work
 pytz==2019.3
 PyWavelets==1.1.1
 pywin32==227
