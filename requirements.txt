@@ -251,7 +251,6 @@ torchvision==0.8.2
 tornado==6.1
 tqdm==4.42.1
 traitlets==4.3.3
-traittypes @ file:///home/conda/feedstock_root/build_artifacts/traittypes_1600843364635/work
 treeinterpreter==0.2.2
 typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
 ujson==1.35
