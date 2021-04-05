@@ -255,7 +255,7 @@ ujson==1.35
 unicodecsv==0.14.1
 urllib3==1.25.8
 viola==0.3.8
-voila==0.2.7
+voila==0.2.3
 wasabi==0.6.0
 watchdog==0.10.2
 waterfallcharts==3.8
